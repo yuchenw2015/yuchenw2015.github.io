@@ -1,0 +1,6 @@
+---
+title: "My repository"
+---
+Lab1: https://github.com/MirandaTilton/Stat585_Lab1.git  
+Lab2: https://github.com/lydiaPenglish/Lab-2.git
+
