@@ -2,5 +2,5 @@
 title: "Packages"
 ---
 tidyverse: dealing the massive data.      
-gglot2: plotting neat and pretty plots.
+gglot2: plotting neat and pretty plots.  
 cowplot: arranging more than one plot in one page.
